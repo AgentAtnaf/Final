@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\bin\Debug\net6.0\question.exe
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\bin\Debug\net6.0\question.deps.json
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\bin\Debug\net6.0\question.runtimeconfig.json
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\bin\Debug\net6.0\question.dll
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\bin\Debug\net6.0\question.pdb
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.dll
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\refint\question.dll
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.pdb
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\question.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\mdt211_2565_final_assets-main\Final\question\obj\Debug\net6.0\ref\question.dll
